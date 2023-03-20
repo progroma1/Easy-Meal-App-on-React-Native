@@ -1,6 +1,4 @@
-
 import { View, Text, StyleSheet } from "react-native";
-
 
 const MealDetails = ({ duration, complexity, affordability, style, textStyle }) => {
     return (
